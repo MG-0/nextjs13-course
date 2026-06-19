@@ -1,17 +1,26 @@
 # Next.js Learning Project
 
-A simple project built while learning Next.js. It covers the fundamentals of the framework, including routing, layouts, server and client components, data fetching, and modern React development patterns.
+A simple project built while learning Next.js and modern React development. It covers the core concepts of the framework, including routing, layouts, data fetching, and component-based architecture.
 
-## Tech Stack
+## 🚀 Tech Stack
 
-* Next.js
-* React
-* TypeScript
-* CSS / Tailwind CSS
+* ⚛️ React
+* ▲ Next.js
+* 📘 TypeScript
+* 🎨 CSS / Tailwind CSS
 
-## Purpose
+## 📚 Learning Objectives
 
-This project was created for learning and practicing core Next.js concepts and best practices for building modern web applications.
+* 🛣️ File-based Routing
+* 🧩 Server & Client Components
+* 📦 Data Fetching
+* 🎯 Layouts & Nested Routes
+* 🔄 State Management Fundamentals
+* ⚡ Modern React Patterns
+
+## 🎯 Purpose
+
+This project was created for learning and practicing Next.js fundamentals and modern web development best practices.
 
 
 ## Getting Started
