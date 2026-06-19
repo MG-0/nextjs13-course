@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Learning Project
+
+A simple project built while learning Next.js. It covers the fundamentals of the framework, including routing, layouts, server and client components, data fetching, and modern React development patterns.
+
+## Tech Stack
+
+* Next.js
+* React
+* TypeScript
+* CSS / Tailwind CSS
+
+## Purpose
+
+This project was created for learning and practicing core Next.js concepts and best practices for building modern web applications.
+
 
 ## Getting Started
 
